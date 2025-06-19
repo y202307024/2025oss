@@ -38,6 +38,7 @@
     <ClInclude Include="add.h">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <Filter>소스 파일</Filter>
     </ClInclude>
     <ClInclude Include="dive.h">
@@ -54,6 +55,8 @@
 =======
 =======
 >>>>>>> dev/b
+=======
+>>>>>>> dev/c
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="dive.h">
@@ -68,9 +71,12 @@
     <ClInclude Include="sub.h">
       <Filter>헤더 파일</Filter>
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> dev/a
 =======
 >>>>>>> dev/b
+=======
+>>>>>>> dev/c
     </ClInclude>
   </ItemGroup>
 </Project>
